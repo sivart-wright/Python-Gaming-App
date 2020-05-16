@@ -1,6 +1,6 @@
 <h1> Python Gaming Reservation App</h1>
 <br>
-<p> This Python application allows users to rent pool tables by the minute. I designed this application in Python because of the elegance, power, and simplicity of Python syntax for this project. It is also very versatile. This application can be used for services that rent anything by the hour. 
+<p> This Python application allows users to rent pool tables by the minute. I built this in Python because of the elegance, power, and simplicity of its syntax for a project like this. Using Python allowed me to create an extremely versatile and easily customized application that would be useful to a variety of clients and stakeholders. In fact, an application like this can be used for services that rent anything by the hour, and represents an example not only of the usefulness of Python's clean and readable syntax for teams, but its utility for building scalable applications that are transferrable between users. </p>
 <br>
   <br>
 <img src="https://github.com/sivart-wright/projects/blob/master/Screen%20Shot%202020-05-16%20at%202.47.57%20PM.png" width="650" height="800" />
