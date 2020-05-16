@@ -2,6 +2,7 @@
 <br>
 <p> This Python application allows users to rent pool tables by the minute. I designed this application in Python because of the elegance, power, and simplicity of Python syntax for this project. It is also very versatile. This application can be used for services that rent anything by the hour. 
 <br>
+  <br>
 <img src="https://github.com/sivart-wright/projects/blob/master/Screen%20Shot%202020-05-16%20at%202.47.57%20PM.png" width="650" height="800" />
 <img src="https://github.com/sivart-wright/projects/blob/master/Screen%20Shot%202020-05-16%20at%203.09.30%20PM.png") width="600" height="750" />
 <img src="https://github.com/sivart-wright/projects/blob/master/Screen%20Shot%202020-05-16%20at%203.10.30%20PM.png" width="500" height="550" />
