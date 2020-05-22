@@ -18,7 +18,8 @@
 <img src="https://github.com/sivart-wright/projects/blob/master/Screen%20Shot%202020-05-16%20at%203.11.33%20PM.png" width="700" height="750" />
 
 <h3>Stretch Goals Completed</h3>
-<li> Charging cost based on tracked time</li>
+<li>Charging cost based on tracked time</li>
+<li>Execute appropriate control flow</li>
 <li>Exception handling for errors or typos</li>
 
 <h3>Stretch Goals Future:</h3>
